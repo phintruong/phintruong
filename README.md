@@ -1,7 +1,5 @@
 # Hi 👋, I'm Phineas
 
-### A budding Python developer
-
 - 🔭 I'm currently working on Sky Sense
 
 - 📫 How to reach me **phineas.truong@mail.utoronto.ca**
