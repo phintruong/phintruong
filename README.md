@@ -13,7 +13,7 @@ Hackathons are basically my natural habitat
 - 🏆 hacker @ **EmberHacks**
 - 🏆 hacker @ **GoOnHacks**
 - 🏆 hacker @ **UTMIST Ai^2**
-- Hacker @ **IMI Big Data & Artificial Intelligence Competition UTM**
+- hacker @ **IMI Big Data & Artificial Intelligence Competition UTM**
 - hacker @ **Hack the Globe**
 - hacker @ **Stan Hackathon**
 - hacker @ **GenAI Genesis**
