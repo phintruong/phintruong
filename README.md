@@ -17,6 +17,5 @@ Hackathons are basically my natural habitat
 - hacker @ **Hack the Globe**
 - hacker @ **Stan Hackathon**
 - hacker @ **GenAI Genesis**
-- hacker @ **Stan Hackathon**
 - hacker @ **Terrahack**
 
