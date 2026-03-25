@@ -2,7 +2,6 @@
 
 Currently building **Sky Sense**  
 Reach me at **phineas.truong@mail.utoronto.ca**  
-Hackathons are basically my natural habitat  
 
 ## Hackathons
 - Organizer @ **SOON Hackathon**
