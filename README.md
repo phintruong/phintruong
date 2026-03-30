@@ -12,6 +12,7 @@ Reach me at **phineas.truong@mail.utoronto.ca**
 - 🏆 hacker @ **EmberHacks**
 - 🏆 hacker @ **GoOnHacks**
 - 🏆 hacker @ **UTMIST Ai^2**
+- 🏆 hacker @ **Stupid Idea Hackathon**
 - hacker @ **IMI Big Data & Artificial Intelligence Competition UTM**
 - hacker @ **Hack the Globe**
 - hacker @ **Stan Hackathon**
