@@ -1,6 +1,5 @@
 # Hey 👋, I'm Phineas
 
-Currently building **Sky Sense**  
 Reach me at **phineas.truong@mail.utoronto.ca**  
 
 ## Hackathons
