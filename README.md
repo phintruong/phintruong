@@ -1,4 +1,4 @@
-# Hey, I'm Phineas 👋
+# Hey, I'm Phin 👋
 
 Reach me at **phineas.truong@mail.utoronto.ca**  
 
