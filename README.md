@@ -3,7 +3,7 @@
 Reach me at **phineas.truong@mail.utoronto.ca**  
 
 ## Hackathons
-- Organizer @ **SOON Hackathon**
+- Director @ **SOON Hackathon**
 - 🏆 hacker @ **UofTHacks**
 - 🏆 hacker @ **UTRA Hacks**
 - 🏆 hacker @ **QHacks**
