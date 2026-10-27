@@ -3,7 +3,7 @@
 Reach me at **phineas.truong@mail.utoronto.ca**  
 
 ## Hackathons
-- Director @ **SOON Hackathon**
+- Director @ **SOON Hackathon S26, F26**
 - 🏆 hacker @ **Hack the North 2026**
 - 🏆 hacker @ **Agentic AI Build Week | GenAI Fund**
 - 🏆 hacker @ **UofTHacks**
